@@ -10,9 +10,6 @@
  ◦ Bootstrap 4.
  ◦ Material Design Bootstrap.
  
- ## LAMP stack by sprintcube:
- https://github.com/sprintcube/docker-compose-lamp
- 
  ## Installation
  Clone this repository on your local computer and Run the `docker-compose up -d`.
  You can access website by visiting `http://localhost/users/register`.
